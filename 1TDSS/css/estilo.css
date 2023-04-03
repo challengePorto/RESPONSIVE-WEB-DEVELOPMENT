@@ -12,8 +12,8 @@
 .links ul li{
     text-decoration: none;
     text-align: center;
-    color: #f1062d;
-    font-weight: 700;
+    color: black;
+    font-weight: 800;
     font-size: 25px;
     background-color: #6ea4f5;
     height: 200px;
@@ -22,11 +22,12 @@
     padding: 80px 5px 0 0;
 }
 
-.links img{
+.menu img{
     float: right;
     justify-items: end;
 
 }
+
 
 .imagem{
     background-image: url(../img/tlgnedog.avif);
