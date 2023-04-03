@@ -14,16 +14,20 @@
     text-align: center;
     color: #000000;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 25px;
     background-color: #d9d9d9;
     height: 200px;
     width: 200px;
     display: inline-block;
-    padding: 70px 0 0 0;
+    padding: 80px 5px 0 0;
 }
 
 .links img{
     float: right;
     justify-items: end;
 
+}
+
+.imagem{
+    background-image: url(../img/tlgnedog.avif);
 }
