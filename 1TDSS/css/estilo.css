@@ -10,9 +10,10 @@
 }
 
 .links ul li{
+    justify-items: center;
     text-decoration: none;
     text-align: center;
-    color: black;
+    color: rgb(37, 1, 241);
     font-weight: 800;
     font-size: 25px;
     background-color: #6ea4f5;
@@ -23,10 +24,14 @@
 }
 
 .menu h1{
-    justify-items: end;
-    font-size: 40px;
+    
+    font-size: 30px;
     color: rgb(37, 1, 241);
     font-weight: 700;
+}
+
+.menu h2{
+    font-size: 22px;
 }
 
 .menu img{
@@ -35,15 +40,24 @@
 
 }
 
+.org2 img{
+    float: right;
+    justify-items: end;
+}
+
+.rms2 img{
+    float: right;
+    justify-items: end;
+}
 
 .imagem{
     background-image: url(../img/tlgnedog.avif);
 }
 
-.rms{
+.rms1{
     background-image: url(../img/tlgnedog.avif);
 }
 
-.organograma{
+.org1{
     background-image: url(../img/tlgnedog.avif);
 }
