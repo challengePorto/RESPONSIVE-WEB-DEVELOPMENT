@@ -5,11 +5,10 @@
     box-sizing: border-box;  
 }
 
-.links ul{
+.menu3 ul{
     list-style: none;
 }
-
-.links ul li{
+.menu3 ul li{
     justify-items: center;
     text-decoration: none;
     text-align: center;
@@ -22,35 +21,41 @@
     display: inline-block;
     padding: 80px 5px 0 0;
 }
-
-.menu h1{
-    
-    font-size: 30px;
+.menu2 h1{
+    align-items: stretch;
+    font-size: 35px;
     color: rgb(37, 1, 241);
     font-weight: 700;
 }
-
-.menu h2{
+.menu2 h2{
     font-size: 22px;
 }
-
-.menu img{
+.menu2 img{
     float: right;
     justify-items: end;
 
 }
+
 
 .org2 img{
     float: right;
     justify-items: end;
+}
+.org2 h1{
+    font-size: 35px;
 }
 
 .rms2 img{
     float: right;
     justify-items: end;
 }
+.rms2 h1{
+    font-size: 35px;
+    justify-items: center;
+}
 
-.imagem{
+
+.menu1{
     background-image: url(../img/tlgnedog.avif);
 }
 
