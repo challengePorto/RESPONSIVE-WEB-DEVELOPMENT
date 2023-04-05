@@ -64,13 +64,14 @@
     font-size: 35px;
     justify-items: center;
 }
-.rms3 p{
+.rms3 h2{
     font-size: 25px;
-
+}
+.rms3 h3{
+    font-size: 25px;
 }
 .rms3 a{
     font-size: 25px;
-
 }
 
 
