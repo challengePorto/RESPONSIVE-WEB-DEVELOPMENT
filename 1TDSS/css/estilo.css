@@ -42,6 +42,10 @@
 .org2 h1{
     font-size: 35px;
 }
+.org2 p{
+    font-size: 22px;
+}
+
 .org3 ul li{
     justify-items: center;
     text-decoration: none;
