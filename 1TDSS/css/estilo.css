@@ -64,18 +64,13 @@
     font-size: 35px;
     justify-items: center;
 }
-.rms3 ul li{
-    justify-items: center;
-    text-decoration: none;
-    text-align: center;
-    color: rgb(37, 1, 241);
-    font-weight: 800;
+.rms3 p{
     font-size: 25px;
-    background-color: #6ea4f5;
-    height: 200px;
-    width: 200px;
-    display: inline-block;
-    padding: 80px 5px 0 0;
+
+}
+.rms3 a{
+    font-size: 25px;
+
 }
 
 
