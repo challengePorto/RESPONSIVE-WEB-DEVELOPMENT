@@ -4,7 +4,20 @@
     font-size: 20px;
     box-sizing: border-box;  
 }
+.menu2 h1{
+    align-items: stretch;
+    font-size: 35px;
+    color: rgb(37, 1, 241);
+    font-weight: 700;
+}
+.menu2 h2{
+    font-size: 22px;
+}
+.menu2 img{
+    float: right;
+    justify-items: end;
 
+}
 .menu3 ul{
     list-style: none;
 }
@@ -21,21 +34,6 @@
     display: inline-block;
     padding: 80px 5px 0 0;
 }
-.menu2 h1{
-    align-items: stretch;
-    font-size: 35px;
-    color: rgb(37, 1, 241);
-    font-weight: 700;
-}
-.menu2 h2{
-    font-size: 22px;
-}
-.menu2 img{
-    float: right;
-    justify-items: end;
-
-}
-
 
 .org2 img{
     float: right;
@@ -43,6 +41,19 @@
 }
 .org2 h1{
     font-size: 35px;
+}
+.org3 ul li{
+    justify-items: center;
+    text-decoration: none;
+    text-align: center;
+    color: rgb(37, 1, 241);
+    font-weight: 800;
+    font-size: 25px;
+    background-color: #6ea4f5;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    padding: 125px 5px 0 0;
 }
 
 .rms2 img{
@@ -53,16 +64,29 @@
     font-size: 35px;
     justify-items: center;
 }
+.rms3 ul li{
+    justify-items: center;
+    text-decoration: none;
+    text-align: center;
+    color: rgb(37, 1, 241);
+    font-weight: 800;
+    font-size: 25px;
+    background-color: #6ea4f5;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    padding: 80px 5px 0 0;
+}
 
 
 .menu1{
-    background-image: url(../img/tlgnedog.avif);
+    background-image: url(../img/fundo.avif);
 }
 
 .rms1{
-    background-image: url(../img/tlgnedog.avif);
+    background-image: url(../img/fundo.avif);
 }
 
 .org1{
-    background-image: url(../img/tlgnedog.avif);
+    background-image: url(../img/fundo.avif);
 }
