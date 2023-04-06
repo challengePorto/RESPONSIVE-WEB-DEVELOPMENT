@@ -65,18 +65,43 @@
     float: right;
     justify-items: end;
 }
-.rms2 h1{
+.rms3 p{
+    font-size: 23px;
+    font-weight: 800;
+}
+.rms3 nav ul li a{
+    text-decoration: none;
+    background-color: rgb(10, 194, 240);
+    text-align: center;
+    display: inline-block;
+    width: 150px;
+    height: 20px;
+    color: #000;
+    padding: 5;
+    font-weight: 700;
+    font-size: 17px;
+    margin: 1% 0;
+}
+
+.chat2 h1{
     font-size: 35px;
-    justify-items: center;
 }
-.rms3 h2{
-    font-size: 25px;
+.chat2 img {
+    float: right;
+    justify-items: end;
 }
-.rms3 h3{
-    font-size: 25px;
-}
-.rms3 a{
-    font-size: 25px;
+.chat3 nav ul li a{
+    text-decoration: none;
+    background-color: rgb(10, 194, 240);
+    text-align: center;
+    display: inline-block;
+    width: 150px;
+    height: 20px;
+    color: #000;
+    padding: 5;
+    font-weight: 700;
+    font-size: 17px;
+    margin: 1% 0;
 }
 
 
